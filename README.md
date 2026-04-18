@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Nashville, Tennessee, US
 
-> Free BeamStation sample export with 35 rows and masked direct-contact fields.
+> Free BeamStation sample export with 34 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `299624` |
 | Location | Nashville |
 | Category | Restaurants |
-| Full dataset size | 352 records |
-| Free sample size | 35 records (9.94%) |
-| Last export | 2026-04-07T22:51:58.643649+00:00 |
+| Full dataset size | 349 records |
+| Free sample size | 34 records (9.74%) |
+| Last export | 2026-04-15T04:35:56.607254+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-nashville-tennessee-us-sample-299624/releases/download/sample-latest/beamstation_299624_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
