@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d9e03cd7-4eee-4139-9e43-f3ca9c6ae563",
+  "export_job_id": "ed86f17a-951a-46b1-bcd1-38179bbca85b",
   "id_short": 299624,
-  "published_at": "2026-04-11T19:21:01Z",
+  "published_at": "2026-04-18T07:48:28Z",
   "repo_name": "restaurant-verified-email-access-in-nashville-tennessee-us-sample-299624",
   "sample_asset_name": "beamstation_299624_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/299624/beamstation_299624_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "0665a34136b774e7e5bdf982930d620b03a78a4a5927d65498661c338c4a8dd8",
-  "sample_size_bytes": 157882,
-  "total_records": 352
+  "sample_records": 34,
+  "sample_sha256": "b328cdf759ba815d8dfd810b84af496ae254bc9fd54f66bedc298b05bb68144a",
+  "sample_size_bytes": 155874,
+  "total_records": 349
 }
