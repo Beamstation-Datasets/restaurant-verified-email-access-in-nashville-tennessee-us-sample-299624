@@ -6,7 +6,7 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Nashville, Tennessee, US",
-  "export_job_id": "7396f343-4838-40c8-8a34-0151ceb859a7",
+  "export_job_id": "b796a2b5-8ffc-4069-8648-ce9447fa17a2",
   "github_org": "Beamstation-Datasets",
   "id_short": 299624,
   "location_name": "Nashville",
@@ -14,9 +14,9 @@
   "repo_name": "restaurant-verified-email-access-in-nashville-tennessee-us-sample-299624",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/299624/beamstation_299624_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_pct": 9.86,
-  "sample_records": 63,
-  "sample_sha256": "6d5df0b5c10e55b91b7deb498a1833a65f1fa8984a91e2e594c61c6ee49a342f",
-  "sample_size_bytes": 275335,
-  "total_records": 639,
-  "updated_at": "2026-04-22T10:01:17.508764+00:00"
+  "sample_records": 64,
+  "sample_sha256": "bae59cb34cb20a5e280fa6d94eb797d7343b688267eab9dbac847b5114fa6abe",
+  "sample_size_bytes": 276046,
+  "total_records": 649,
+  "updated_at": "2026-04-29T11:29:51.646871+00:00"
 }
